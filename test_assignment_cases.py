@@ -28,7 +28,6 @@ test_cases = [
         "language": "python"
     }
 ]
-
 for i, test_case in enumerate(test_cases, 1):
     try:
         print(f"\n🔍 Test Case {i}: {test_case['name']}")
