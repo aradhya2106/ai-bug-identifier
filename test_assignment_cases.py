@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-print("🧪 Testing Assignment Required Test Cases")
+print("Testing Assignment Required Test Cases")
 print("=" * 50)
 
 # Test cases 
