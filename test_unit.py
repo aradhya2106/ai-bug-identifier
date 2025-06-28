@@ -199,7 +199,7 @@ class TestBugIdentifierAPI(unittest.TestCase):
         self.assertIn('not allowed', data['error'].lower())
 
 if __name__ == '__main__':
-    print("🧪 Running Unit Tests for Bug Identifier API")
+    print(" Running Unit Tests for Bug Identifier API")
     print("=" * 50)
     
     # Run the tests
